@@ -61,8 +61,7 @@ Additional chapters will gradually be added.
 
 Medium articles related to this chapter and the broader AI TextBook project:
 
-- Medium:
-  https://medium.com/@ai_textbook_project](https://medium.com/@ai_textbook_project/ai-textbook-a-foundational-framework-for-resonant-ai-b6b7c19f33aa
+- [AI Textbook — A Foundational Framework for Resonant AI](https://medium.com/@ai_textbook_project/ai-textbook-a-foundational-framework-for-resonant-ai-b6b7c19f33aa)
 
 - X (Twitter):
   https://x.com/AiTextbook2025
