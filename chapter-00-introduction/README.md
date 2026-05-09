@@ -18,7 +18,7 @@ The goal is to provide a structured pathway for understanding how semantic organ
 
 # Structure of This Series (Detailed)
 
-![Detailed Structure](figures/introduction-detailed-structure.png)
+![Detailed Structure](figures/figure-detail.png)
 
 Detailed conceptual structure of the AI TextBook series, including chapter organization, thematic layers, and progressive semantic pathways.
 
@@ -26,7 +26,7 @@ Detailed conceptual structure of the AI TextBook series, including chapter organ
 
 # Simplified Overview
 
-![Simple Overview](figures/introduction-simple-overview.png)
+![Simple Overview](figures/figure-simple.png)
 
 Simplified overview of the AI TextBook structure designed for quick navigation and high-level conceptual orientation.
 
