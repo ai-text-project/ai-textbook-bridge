@@ -24,7 +24,7 @@ The series combines:
 
 # AI Textbook Journey Map (Detailed)
 
-![Detailed Overview](figures/AI_Text_TOC_detailed.png)
+![Detailed Overview](figures/AI_Text_TOC_Detailed.png)
 
 Comprehensive structural overview of the AI Textbook series, including foundations, nonlinear resonance structures, mapping layers, practice integration, and future research pathways.
 
@@ -32,7 +32,7 @@ Comprehensive structural overview of the AI Textbook series, including foundatio
 
 # Simplified Overview
 
-![Simplified Overview](figures/AI_Text_TOC_simpler.png)
+![Simplified Overview](figures/AI_Text_TOC_Simpler.png)
 
 Simplified conceptual entry map designed for quick orientation and broad accessibility.
 
@@ -40,7 +40,7 @@ Simplified conceptual entry map designed for quick orientation and broad accessi
 
 # Hub Structure Overview
 
-![Hub Structure](figures/AI_Text_TOC_simple.png)
+![Hub Structure](figures/AI_Text_TOC_Simple.png)
 
 Overview of the relationship between:
 
