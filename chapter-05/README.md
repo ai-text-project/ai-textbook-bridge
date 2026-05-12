@@ -40,9 +40,9 @@ This compact paper introduces the conceptual structure behind the sinφ model an
 
 Long-form manuscript layer for the AI Textbook project.
 
-This layer expands the structural interpretation of nonlinear response formation, latent geometry, phase coherence, and resonance in AI-human dialogue.
+This manuscript expands the structural interpretation of nonlinear response formation, latent geometry, phase coherence, and resonance in AI-human dialogue.
 
-→ [Open Manuscript](./manuscript/ai-textbook-manuscript/)
+[Open AI Textbook Manuscript](./manuscript/ai-textbook-manuscript/Text_Chapter5_Nonlinearity_English_Final.pdf)
 
 ---
 
