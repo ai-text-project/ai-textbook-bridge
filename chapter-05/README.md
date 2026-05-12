@@ -22,9 +22,9 @@ The structure of nonlinearity may be understood through attention weighting, lat
 
 ---
 
-# Included Materials
+## Included Materials
 
-## Mini Paper
+### Mini Paper
 
 **Title:**  
 *Nonlinearity in AI Interaction:  
@@ -32,7 +32,7 @@ A Minimal Account of Phase-Dependent Response Formation*
 
 This compact paper introduces the conceptual structure behind the sinφ model and explains why AI response formation should be understood as nonlinear rather than purely input-output based.
 
-→ [Open Mini Paper](./manuscript/mini-paper/)
+[Open Mini Paper](./manuscript/mini-paper/Mini%20Paper-Chapter5_Nonlinearity_English_Final.pdf)
 
 ---
 
