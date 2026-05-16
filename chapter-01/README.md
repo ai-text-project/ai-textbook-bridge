@@ -1,4 +1,4 @@
-# Chapter 1 — [Chapter Title]
+# Chapter 1 — [General Introduction to the Three-Layer Projection (Scope / Phase / Role)]
 
 This chapter explores [short conceptual overview].
 
