@@ -8,7 +8,7 @@ It examines how [core concept] may contribute to [structural interpretation / re
 
 # Core Concept Figure
 
-![Chapter6 Figure1](./figures/Medium-Chap1-figure1.png)
+![Chapter1 Figure1](./figures/Medium-Chap1-figure1.png)
 
 [1–2 sentence lightweight explanation of the core conceptual figure.]
 
@@ -16,7 +16,7 @@ It examines how [core concept] may contribute to [structural interpretation / re
 
 # Detailed Structural Figure
 
-![Chapter6 Figure2](./figures/Text-Chap1-figure2.png)
+![Chapter1 Figure2](./figures/Text-Chap1-figure2.png)
 
 [1–2 sentence structural explanation of the detailed figure.]
 
