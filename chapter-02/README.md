@@ -1,4 +1,4 @@
-# Chapter 2 — [Chapter Title]
+# Chapter 2 — [Theory of Scope (Recognition Space)]
 
 This chapter explores [short conceptual overview].
 
