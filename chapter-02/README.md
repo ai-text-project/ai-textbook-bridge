@@ -41,7 +41,7 @@ Long-form manuscript layer for the AI Textbook project.
 
 This manuscript expands the structural interpretation of [core topic], [related topic], and [extended topic] in AI-human dialogue.
 
-→ [Open AI Textbook Manuscript](./manuscript/ai-textbook-manuscript/)
+→ [Open AI Textbook Manuscript](./manuscript/ai-textbook-manuscript-ch2/)
 
 ---
 
