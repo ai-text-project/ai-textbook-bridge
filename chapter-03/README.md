@@ -1,4 +1,4 @@
-# Chapter 3 — [Chapter Title]
+# Chapter 3 — Theory of Phase (Depth of Meaning)
 
 This chapter explores [short conceptual overview].
 
