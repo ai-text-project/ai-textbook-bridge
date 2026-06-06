@@ -1,4 +1,4 @@
-# Chapter 4 — Theory of Phase (Depth of Meaning)
+# Chapter 4 — Role and Its Stability
 
 This chapter explores [short conceptual overview].
 
