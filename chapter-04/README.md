@@ -31,7 +31,7 @@ It examines how [core concept] may contribute to [structural interpretation / re
 
 This compact paper introduces the conceptual structure behind Chapter 6 and explains how [core topic] may be understood within the AI Textbook Bridge framework.
 
-→ [Open Mini Paper](./manuscript/mini-paper/)
+→ [Open Mini Paper](./manuscript/mini-paper.pdf/)
 
 ---
 
@@ -41,7 +41,7 @@ Long-form manuscript layer for the AI Textbook project.
 
 This manuscript expands the structural interpretation of [core topic], [related topic], and [extended topic] in AI-human dialogue.
 
-→ [Open AI Textbook Manuscript](./manuscript/ai-textbook-manuscript/)
+→ [Open AI Textbook Manuscript](./manuscript/ai-textbook-manuscript.pdf/)
 
 ---
 
