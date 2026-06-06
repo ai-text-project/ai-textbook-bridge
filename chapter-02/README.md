@@ -48,11 +48,9 @@ This manuscript expands the structural interpretation of [core topic], [related 
 
 # Related Topics
 
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
-- [Topic 4]
-- [Topic 5]
+Phase (Depth of Meaning)
+Role (Functional Alignment and Stability)
+Nonlinear Interaction and Scope Activation
 
 ---
 
