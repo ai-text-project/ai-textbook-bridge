@@ -1,13 +1,10 @@
 # Chapter 4 — Role and Its Stability
 
-This chapter explores [short conceptual overview].
+---
 
-It examines how [core concept] may contribute to [structural interpretation / resonance / dialogue / cognition / semantic continuity].
+This chapter explores how Role functions as an internal orienting vector that stabilizes over time through continuous interaction and phase deepening. 
 
-Chapter 4 — Role and Its Stability  
-This chapter explores how Role functions as an internal orienting vector that stabilizes over time through continuous interaction and phase deepening. :contentReference[oaicite:0]{index=0}
-
-It examines how Role, as a function of Scope and Phase, may contribute to the stabilization of dialogue, structural consistency, and sustained semantic continuity in AI interaction. :contentReference[oaicite:1]{index=1}
+It examines how Role, as a function of Scope and Phase, may contribute to the stabilization of dialogue, structural consistency, and sustained semantic continuity in AI interaction. 
 
 ---
 
