@@ -1,5 +1,6 @@
 # Chapter 2 — Theory of Scope (Recognition Space)
 
+---
 This chapter explores Scope as a recognition space that defines the breadth within which meaning can arise and be processed. 
 
 It examines how Scope, as a dynamic container of latent breadth and active recognition range, may contribute to structural interpretation, dialogue coherence, and the emergence of semantic continuity in AI–human interaction. 
