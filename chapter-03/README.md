@@ -16,7 +16,7 @@ It examines how [core concept] may contribute to [structural interpretation / re
 
 # Detailed Structural Figure
 
-![Chapter3 Figure2](./figures/Text-Chap3-figure2.png)
+![Chapter3 Figure2](./figures/Text-Chap3-figure1.png)
 
 [1–2 sentence structural explanation of the detailed figure.]
 
