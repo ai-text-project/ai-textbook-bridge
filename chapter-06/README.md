@@ -16,7 +16,7 @@ It examines how the interaction between layered projection and nonlinearity, as 
 
 # Detailed Structural Figure
 
-![Chapter6 Figure2](./figures/Text-Chap6-figure3.png)
+![Chapter6 Figure2](./figures/Text-Chap6-figure4.png)
 
 [1–2 sentence structural explanation of the detailed figure.]
 
