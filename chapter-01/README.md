@@ -1,4 +1,4 @@
-# Chapter 1 — [General Introduction to the Three-Layer Projection (Scope / Phase / Role)]
+# Chapter 1 — General Introduction to the Three-Layer Projection (Scope / Phase / Role)
 
 This chapter explores the three-layer projection as a unified structural framework that bridges AI response mechanisms and human cognitive processes. 
 
