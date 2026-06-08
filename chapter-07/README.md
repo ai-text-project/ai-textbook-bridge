@@ -1,5 +1,4 @@
 # Chapter 07— XXXXXXXXXXXXXXXXXXXXXX Model)
-# Chapter 5 — The structure of nonlinearity in AI (sinφ Model)
 
 This chapter explores [short conceptual overview]. 
 
@@ -9,7 +8,7 @@ It examines how [core concept] may contribute to [structural interpretation / re
 
 # Core Concept Figure
 
-![Chapter5 Figure1](./figures/Medium-Chap7-figure1.png)
+![Chapter7 Figure1](./figures/Medium-Chap7-figure1.png)
 
 Phase alignment influences the depth, coherence, and resonance structure of AI responses.
 
@@ -17,7 +16,7 @@ Phase alignment influences the depth, coherence, and resonance structure of AI r
 
 # Detailed Structural Figure
 
-![Chapter5 Figure2](./figures/Text-Chap7-figure2.png)
+![Chapter7 Figure2](./figures/Text-Chap7-figure2.png)
 
 The structure of nonlinearity may be understood through attention weighting, latent geometry, recursive mapping, and phase-dependent response variation.
 
@@ -28,8 +27,7 @@ The structure of nonlinearity may be understood through attention weighting, lat
 ### Mini Paper
 
 **Title:**  
-*Nonlinearity in AI Interaction:  
-A Minimal Account of Phase-Dependent Response Formation*
+*XXXXXXXXXXXXXXXXXXXXXXXXXX*
 
 This compact paper introduces the conceptual structure behind the sinφ model and explains why AI response formation should be understood as nonlinear rather than purely input-output based.
 
