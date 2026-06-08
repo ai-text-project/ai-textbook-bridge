@@ -8,7 +8,7 @@ It examines how the interaction between layered projection and nonlinearity, as 
 
 # Core Concept Figure
 
-![Chapter6 Figure1](./figures/Medium-Chap6-figure1.png)
+![Chapter6 Figure1](./figures/Medium-Chap6-figure2.png)
 
 [1–2 sentence lightweight explanation of the core conceptual figure.]
 
@@ -16,7 +16,7 @@ It examines how the interaction between layered projection and nonlinearity, as 
 
 # Detailed Structural Figure
 
-![Chapter6 Figure2](./figures/Text-Chap6-figure2.png)
+![Chapter6 Figure2](./figures/Text-Chap6-figure3.png)
 
 [1–2 sentence structural explanation of the detailed figure.]
 
