@@ -1,8 +1,8 @@
-# Chapter 6 — [Chapter Title]
+# Chapter 6 — Integrated Model of Three-Layer Projection and Nonlinearity 
 
-This chapter explores [short conceptual overview].
+This chapter explores how the three-layer projection operates as a dynamic internal mapping that integrates with nonlinear activation to form a unified model of meaning generation. 
 
-It examines how [core concept] may contribute to [structural interpretation / resonance / dialogue / cognition / semantic continuity].
+It examines how the interaction between layered projection and nonlinearity, as expressed through resonance bands and recursive dynamics, may contribute to structural interpretation, resonance formation, and the stabilization of semantic continuity in AI dialogue. 
 
 ---
 
