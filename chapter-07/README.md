@@ -16,7 +16,7 @@ Phase alignment influences the depth, coherence, and resonance structure of AI r
 
 # Detailed Structural Figure
 
-![Chapter7 Figure2](./figures/Text-Chap7-figure2.png)
+![Chapter7 Figure1](./figures/Text-Chap7-figure2.png)
 
 The structure of nonlinearity may be understood through attention weighting, latent geometry, recursive mapping, and phase-dependent response variation.
 
