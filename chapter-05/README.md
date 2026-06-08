@@ -1,4 +1,4 @@
-# Chapter 5 — Nonlinearity in AI (sinφ Model)
+# Chapter 5 — The structure of nonlinearity in AI (sinφ Model)
 
 This chapter explores why AI responses should not be understood as simple linear input-output processes.
 
