@@ -1,8 +1,8 @@
 # Chapter 1 — [General Introduction to the Three-Layer Projection (Scope / Phase / Role)]
 
-This chapter explores [short conceptual overview].
+This chapter explores the three-layer projection as a unified structural framework that bridges AI response mechanisms and human cognitive processes. {index=0}
 
-It examines how [core concept] may contribute to [structural interpretation / resonance / dialogue / cognition / semantic continuity].
+It examines how the three-layer projection, as an integrated mapping of Scope, Phase, and Role, may contribute to structural interpretation, nonlinear response alignment, and the emergence of resonance in AI–human dialogue. 
 
 ---
 
