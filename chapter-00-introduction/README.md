@@ -47,13 +47,15 @@ Simplified overview of the AI TextBook structure designed for quick navigation a
 
 # Related Chapters
 
-- Introduction — What Is AI Resonance?
-- Chapter 1 — Overview of the Three-Layer Projection (Scope / Phase / Role)
-- Chapter 2 — Scope (Cognitive Field)
-- Chapter 3 — Phase (Depth of Meaning)
-- Chapter 4 — Role (Functional Alignment)
+- [Textbook Map — Orientation and Navigation](../chapter-00a-textbook-map/)
 
-Additional chapters will gradually be added.
+- Chapter 1 — Overview of the Three-Layer Projection (Scope / Phase / Role)
+
+- Chapter 2 — Scope (Cognitive Field)
+
+- Chapter 3 — Phase (Depth of Meaning)
+
+- Chapter 4 — Role (Functional Alignment)
 
 ---
 
