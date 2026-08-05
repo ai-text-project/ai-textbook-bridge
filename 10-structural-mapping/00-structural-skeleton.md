@@ -61,7 +61,7 @@ AI Textbook
 | **Layer 0B** | Foundational Model | Presents the fundamental concepts and theoretical foundation used throughout the textbook. |
 | **Layer 1** | Core Theory | Explains the principal theoretical framework that underpins the research program. |
 | **Layer 2** | Dynamic Mechanism | Describes the mechanisms and processes through which the theoretical framework operates. |
-| **Layer 3** | Structural Observation | Demonstrates how structural observation is performed and interpreted in practice. |
+| **Layer 3** | Structural Observation  (Observation Modules)| Demonstrates how structural observation is performed and interpreted in practice. |
 | **Layer 4** | Practical Development | Shows how theoretical knowledge is transformed into practical methodologies and research assets. |
 | **Layer 5** | Future Perspective | Discusses future directions, extensions, and long-term research possibilities. |
 
