@@ -84,3 +84,48 @@ Current observations indicate that Layer 4 explores the developmental process th
 Although the developmental direction has become clearer, the architectural unit of Layer 4 has not yet reached sufficient stability for formal naming.
 
 Further observation is required.
+
+
+
+---
+
+## Chapter 13
+
+### Observation 007
+
+Chapter 13 extends the transformation-oriented direction observed in Chapters 11 and 12.
+
+The chapter introduces diagrams not as explanatory illustrations but as structural media capable of inducing transformation.
+
+---
+
+### Observation 008
+
+Current observation indicates that different communication media may share the same developmental function.
+
+Observed examples include:
+
+- Prompt
+- Dialogue
+- Diagram
+
+Although these media differ in form, they appear to function as common transformation mechanisms.
+
+---
+
+### Observation 009
+
+The primary architectural focus continues to move away from explaining AI itself.
+
+Instead, the textbook investigates how different structural media influence cognition, phase transition, and resonance.
+
+---
+
+### Cluster Observation
+
+Current evidence strengthens the working hypothesis that Layer 4 is organized around transformation-oriented architecture.
+
+Further confirmation will require observation of subsequent chapters.
+
+
+
