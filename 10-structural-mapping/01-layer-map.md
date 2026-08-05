@@ -76,11 +76,24 @@ Completed
 
 # Layer 2
 
-Dynamic Mechanism
+## Dynamic Mechanism
+
+Purpose
+
+Explains how the theoretical architecture established in Layer 1 operates dynamically inside AI-human interaction.
+
+Current Observation
+
+The first observed mechanism module consists of:
+
+- Mechanism Source
+- Dynamic Behavior
+- Structural Correspondence
+- Resonance Condition
 
 Status
 
-Not yet analyzed.
+Partially Observed
 
 ---
 
