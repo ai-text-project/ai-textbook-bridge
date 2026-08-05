@@ -318,3 +318,27 @@ Current evidence suggests that Layer 4 is no longer centered on explaining AI st
 Instead, it investigates how interaction with AI produces cognitive transformation within the learner.
 
 The developmental unit of Layer 4 remains under observation.
+
+
+---
+
+# Current Observation -Chap 13 
+
+Current observation suggests that Layer 4 is no longer organized around individual communication methods.
+
+Instead, multiple communication media appear to share a common developmental objective.
+
+Observed media include:
+
+- Prompt
+- Dialogue
+- Diagram
+
+Despite their different forms, all currently function as mechanisms that facilitate cognitive transformation.
+
+Transformation-Oriented Architecture therefore remains the strongest working hypothesis for Layer 4.
+
+---
+
+
+
