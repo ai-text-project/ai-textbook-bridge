@@ -47,10 +47,6 @@ This layer functions as the bridge between Orientation and Core Theory.
 
 ## Core Theory
 
-# Layer 1
-
-## Core Theory
-
 Purpose
 
 Defines the fundamental theoretical architecture of the AI Textbook.
