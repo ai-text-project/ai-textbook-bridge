@@ -61,20 +61,12 @@ Core Components
 - Scope Theory
 - Phase Theory
 - Role Theory
-- Human Cognitive Correspondence
-- LLM Correspondence
-- Nonlinear Response
-- Bridge Layer
 
 Current Observation
 
-Scope Theory introduces an internal architecture consisting of:
+Scope Theory and Phase Theory both define internal operational architectures.
 
-- Definition
-- Hierarchical Levels
-- Internal Composition
-- Reading Mechanism
-- Functional Activation
+Layer 1 therefore appears to be composed of multiple theory modules following comparable structural principles.
 
 Status
 
