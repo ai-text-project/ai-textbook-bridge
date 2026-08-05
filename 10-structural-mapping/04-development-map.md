@@ -296,7 +296,7 @@ Cluster 03
 
 ---
 
-# Current Observation
+# Current Observation- Chap 11
 
 Chapter 11 indicates a possible transition beyond Observation Modules.
 
@@ -307,4 +307,14 @@ The architectural principle of Layer 4 remains under observation.
 Confirmation requires observation of subsequent chapters.
 
 
+---
 
+# Current Observation -Chap 12 
+
+Chapter 12 reinforces the developmental transition identified in Chapter 11.
+
+Current evidence suggests that Layer 4 is no longer centered on explaining AI structures.
+
+Instead, it investigates how interaction with AI produces cognitive transformation within the learner.
+
+The developmental unit of Layer 4 remains under observation.
