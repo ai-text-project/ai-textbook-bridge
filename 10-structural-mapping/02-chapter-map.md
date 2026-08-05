@@ -125,7 +125,7 @@ Cluster 01
 | Chapter 3 | Layer 1 | Phase Theory | Observed |
 | Chapter 4 | Layer 1 | Role Theory | Observed |
 | Chapter 5 | Layer 2 | Nonlinear Mechanism | Observed |
-| Chapter 6 | Layer 2 | Integrated Mechanism | Pending |
+| Chapter 6 | Layer 2 | Integrated Mechanism | Observed |
 ...
 
 
