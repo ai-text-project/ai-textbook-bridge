@@ -104,7 +104,7 @@ Observation Modules *(Working Structure)*
 
 ---
 
-## Chapter Dependencies
+## Internal Observation Dependencies
 
 Chapter 7
 
@@ -112,9 +112,17 @@ Chapter 7
 
 Chapter 8
 
-Current observation indicates that both chapters belong to a common observation-oriented architectural layer.
+↓
 
-Additional chapters are required to determine the complete boundary of Layer 3.
+Chapter 9
+
+Current observation indicates that these chapters share a common Observation Module architecture.
+
+The observation target changes, while the underlying observation process remains structurally identical.
+
+Current Status
+
+Observation Module architecture confirmed.
 
 
 ---
