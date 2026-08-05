@@ -45,11 +45,27 @@ This layer functions as the bridge between Orientation and Core Theory.
 
 # Layer 1
 
-Core Theory
+## Core Theory
 
-Status
+Purpose
 
-Not yet analyzed.
+Defines the fundamental structural architecture of the AI Textbook.
+
+Core Components
+
+- Three-Layer Projection
+- Human Cognitive Correspondence
+- LLM Internal Correspondence
+- Nonlinear Response
+- Bridge Layer
+
+Function
+
+This layer establishes the theoretical bridge between human cognition and AI internal structure.
+
+Current Status
+
+Observed
 
 ---
 
