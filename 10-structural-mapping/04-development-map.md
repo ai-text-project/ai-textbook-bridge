@@ -56,7 +56,7 @@ Mechanism Modules
 
 Layer 3
 
-Observation Modules *(Working Hypothesis)*
+Observation Modules *(Strongly Supported)*
 
 ↓
 
