@@ -56,9 +56,7 @@ Mechanism Modules
 
 Layer 3
 
-(Structural Observation)
-
-Pending Observation
+Observation Modules *(Working Hypothesis)*
 
 ↓
 
@@ -82,22 +80,22 @@ Pending Observation
 
 ## Layer 1
 
-Development Unit
+### Development Unit
 
 Theory Modules
 
-Observed Modules
+### Observed Modules
 
 - Three-Layer Projection
 - Scope Theory
 - Phase Theory
 - Role Theory
 
-Developmental Role
+### Developmental Role
 
 Defines the conceptual architecture of the AI Textbook.
 
-Status
+### Status
 
 Completed
 
@@ -105,22 +103,42 @@ Completed
 
 ## Layer 2
 
-Development Unit
+### Development Unit
 
 Mechanism Modules
 
-Observed Modules
+### Observed Modules
 
 - Nonlinear Mechanism
 - Integrated Mechanism
 
-Developmental Role
+### Developmental Role
 
 Explains how the theoretical architecture operates dynamically.
 
-Status
+### Status
 
 Completed
+
+---
+
+## Layer 3
+
+### Development Unit
+
+Observation Modules *(Working Hypothesis)*
+
+### Observed Modules
+
+- Dropbox Topological Mapping
+
+### Developmental Role
+
+Explores how internal cognitive structures become externally observable through structural representations and topological reflection.
+
+### Status
+
+Partially Observed
 
 ---
 
@@ -142,9 +160,13 @@ Theory
 
 Mechanism
 
-This progression indicates that the textbook first establishes conceptual understanding before explaining operational dynamics.
+↓
 
-Future observation will determine how this sequence expands toward Structural Observation and Practical Development.
+Observation *(Working Hypothesis)*
+
+Current observation suggests that the textbook first establishes conceptual structures, then explains their operational mechanisms, and finally begins observing how these structures emerge within real interaction environments.
+
+Future observations will determine whether Layer 3 consistently follows an Observation Module architecture.
 
 ---
 
@@ -162,11 +184,13 @@ Layer 2
 
 → Mechanism Modules
 
-Pending
+Working Hypothesis
 
 Layer 3
 
-→ ?
+→ Observation Modules
+
+Pending
 
 Layer 4
 
@@ -176,7 +200,7 @@ Layer 5
 
 → ?
 
-This hypothesis will be evaluated through subsequent chapter observations.
+This hypothesis will continue to be evaluated through subsequent cluster observations.
 
 ---
 
@@ -194,13 +218,18 @@ Chapter Map
 
 Defines the placement of individual chapters.
 
+Dependency Map
+
+Defines prerequisite relationships among architectural components.
+
 Development Map
 
-Defines how architectural units evolve across the textbook.
+Defines how architectural units evolve throughout the textbook.
 
 ---
 
-Last Updated
+# Last Updated
 
-Cluster 02
-(Chapter 5–6)
+Cluster 03
+
+(Chapter 7)
