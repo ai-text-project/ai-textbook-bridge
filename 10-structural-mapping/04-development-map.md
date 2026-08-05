@@ -210,11 +210,19 @@ Mechanism
 
 ↓
 
-Observation *(Working Hypothesis)*
+Observation
 
-Current observation suggests that the textbook first establishes conceptual structures, then explains their operational mechanisms, and finally begins observing how these structures emerge within real interaction environments.
+Current observation indicates that the AI Textbook is organized through successive architectural development units.
 
-Future observations will determine whether Layer 3 consistently follows an Observation Module architecture.
+Each layer prepares the structural conditions required by the next layer.
+
+The progression therefore represents an architectural development process rather than a simple sequence of chapters.
+
+Current Status
+
+Layer 3 has been confirmed through Chapters 7–9.
+
+Observation Modules constitute the third developmental unit of the AI Textbook.
 
 ---
 
