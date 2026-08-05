@@ -172,9 +172,21 @@ Confirmed
 
 Pending Observation
 
+---
+
+### Current Observation
+
+Chapter 11 introduces a transition from observation toward design-oriented chapters.
+
+The exact architectural principle cannot yet be identified.
+
+Additional observations are required before naming this layer.
+
+---
+
 ### Status
 
-Not yet observed
+Observation in Progress
 
 ---
 
