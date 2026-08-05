@@ -20,19 +20,39 @@ The objective is to reveal how each architectural element depends upon previousl
 
 # Current Layer Dependencies
 
-Orientation
+Layer 2 does not redefine the concepts introduced in Layer 1.
+
+Instead, Layer 2 transforms conceptual structures into operational mechanisms.
+
+Layer 3 does not redefine either conceptual architecture or operational mechanisms.
+
+Instead, it externalizes and validates these structures through structural observation.
+
+Current observations from Chapters 11–12 indicate that Layer 4 builds upon the validated structures established in Layer 3.
+
+Rather than introducing a new theoretical framework, Layer 4 begins to apply observed structures to the transformation of learning and cognition.
+
+Current dependency sequence:
+
+Theory Modules
 
 ↓
 
-Foundational Model
+Mechanism Modules
 
 ↓
 
-Layer 1
+Observation Architecture
 
 ↓
 
-Layer 2
+Transformation-Oriented Architecture *(Working Observation)*
+
+Status
+
+Layer 4 remains under observation.
+
+The architectural principle has not yet been formally identified.
 
 ---
 
