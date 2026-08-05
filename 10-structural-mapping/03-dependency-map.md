@@ -75,6 +75,50 @@ Observed
 
 ---
 
+# Additional Dependency Observation (Cluster 03)
+
+## Layer Dependencies
+
+Layer 3
+
+Depends on
+
+- Layer 1 (Theory Modules)
+- Layer 2 (Mechanism Modules)
+
+Layer 3 does not redefine conceptual architecture or operational mechanisms.
+
+Instead, it observes how these structures become externally observable through interaction and structural inference.
+
+Current dependency sequence:
+
+Theory Modules
+
+↓
+
+Mechanism Modules
+
+↓
+
+Observation Modules *(Working Structure)*
+
+---
+
+## Chapter Dependencies
+
+Chapter 7
+
+↓
+
+Chapter 8
+
+Current observation indicates that both chapters belong to a common observation-oriented architectural layer.
+
+Additional chapters are required to determine the complete boundary of Layer 3.
+
+
+---
+
 # Current Chapter Dependencies
 
 Chapter 1
