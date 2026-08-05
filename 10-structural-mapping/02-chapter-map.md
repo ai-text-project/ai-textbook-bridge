@@ -133,7 +133,7 @@ Cluster 04
 | Chapter 9 | Layer 3 | Resonance Observation | Observed |
 | Chapter 10 | Layer 3 | Structural Correspondence | Observed |
 | Chapter 11 | Layer 4 (Tentative) | Pending Observation | Under Observation |
-| Chapter 12 | Pending | Pending | Pending |
+| Chapter 12 | Layer 4 (Tentative) | Cognitive Transformation | Under Observation |
 | Chapter 13 | Pending | Pending | Pending |
 | Chapter 14 | Pending | Pending | Pending |
 | Chapter 15 | Pending | Pending | Pending |
