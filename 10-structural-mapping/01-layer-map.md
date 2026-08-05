@@ -105,11 +105,23 @@ Completed
 
 # Layer 3
 
-Structural Observation
+## Structural Observation
+
+Purpose
+
+Explains how internal structures become externally observable through structural representations.
+
+Current Observation
+
+The first observed module focuses on topological reflection and structural inference.
+
+Working Hypothesis
+
+Layer 3 may be organized through Observation Modules.
 
 Status
 
-Not yet analyzed.
+Partially Observed
 
 ---
 
