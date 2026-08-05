@@ -213,17 +213,19 @@ Mechanism
 
 Observation
 
-Current observation indicates that the AI Textbook is organized through successive architectural development units.
+Current observation indicates that the AI Textbook develops through successive architectural units.
 
-Each layer prepares the structural conditions required by the next layer.
+Each layer introduces a new developmental function while preserving the structures established by previous layers.
 
-The progression therefore represents an architectural development process rather than a simple sequence of chapters.
+Layer 3 completes the observation cycle by introducing structural correspondence as the final stage of architectural validation.
 
 Current Status
 
-Layer 3 has been confirmed through Chapters 7–9.
+Layer 3 completed.
 
-Observation Modules constitute the third developmental unit of the AI Textbook.
+Cluster 03 completed.
+
+Layer 4 pending observation.
 
 ---
 
