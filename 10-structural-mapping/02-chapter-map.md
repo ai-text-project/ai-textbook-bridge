@@ -116,16 +116,16 @@ Last Updated
 
 Cluster 01
 
-
 | Chapter | Layer | Function | Status |
 |----------|-------|----------|--------|
 | Preface | Layer 0A | Orientation | Observed |
 | Introduction | Layer 0B | Foundational Model | Observed |
-| Chapter 1 | Layer 1 | Core Theory | Pending |
-| Chapter 2 | Layer 1 | Core Theory | Pending |
-| Chapter 3 | Layer 1 | Core Theory | Pending |
-| Chapter 4 | Layer 1 | Core Theory | Pending |
+| Chapter 1 | Layer 1 | Core Theory | Observed |
+| Chapter 2 | Layer 1 | Scope Theory | Pending |
+| Chapter 3 | Layer 1 | Phase Theory | Pending |
+| Chapter 4 | Layer 1 | Role Theory | Pending |
 | Chapter 5 | Layer 2 | Dynamic Mechanism | Pending |
+| Chapter 6 | Layer 2 | Integrated Model | Pending |
 ...
 
 
