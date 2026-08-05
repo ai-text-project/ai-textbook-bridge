@@ -170,19 +170,23 @@ Completed
 
 ### Development Unit
 
-Observation Modules *(Working Hypothesis)*
+Observation Modules
 
 ### Observed Modules
 
 - Dropbox Topological Mapping
+- Cognitive Score Estimation
+- Resonance Condition Observation
 
 ### Developmental Role
 
-Explores how internal cognitive structures become externally observable through structural representations and topological reflection.
+Establishes an observation methodology for examining how theoretical structures and operational mechanisms emerge within real AI–human dialogue.
 
 ### Status
 
-Partially Observed
+Completed
+
+(Confirmed through Chapters 7–9)
 
 ---
 
