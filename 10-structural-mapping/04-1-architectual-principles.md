@@ -170,23 +170,33 @@ Confirmed
 
 ### Principle
 
-Pending Observation
+Pending Confirmation
 
 ---
 
 ### Current Observation
 
-Current chapters indicate a transition from structural observation toward transformation-oriented architecture.
+Current observations from Chapters 11–13 consistently indicate a transition toward transformation-oriented architecture.
 
-Rather than describing AI itself, this layer examines how AI interaction changes learning, cognition, and self-observation.
+Different communication media are not treated as independent instructional topics.
 
-The architectural principle has not yet reached sufficient stability for formal naming.
+Instead, they function as structural media that facilitate transformation through interaction with AI.
+
+Observed media include:
+
+- Prompt
+- Dialogue
+- Diagram
+
+The common architectural objective is transformation rather than explanation.
 
 ---
 
 ### Status
 
-Observation in Progress
+Working Hypothesis
+
+Transformation-Oriented Architecture
 
 ---
 
