@@ -57,3 +57,30 @@ Layer 4 observation initiated.
 Architectural Principle
 
 Pending Observation.
+
+
+---
+
+## Chapter 12
+
+### Observation 004
+
+Chapter 12 extends the architectural transition introduced in Chapter 11.
+
+Instead of focusing on prompt construction itself, the chapter describes how interaction with AI transforms the learner's cognitive organization.
+
+---
+
+### Observation 005
+
+The primary architectural focus has shifted from AI behavior toward user transformation.
+
+Current observations indicate that Layer 4 explores the developmental process through which AI interaction changes cognition, learning, and self-observation.
+
+---
+
+### Observation 006
+
+Although the developmental direction has become clearer, the architectural unit of Layer 4 has not yet reached sufficient stability for formal naming.
+
+Further observation is required.
