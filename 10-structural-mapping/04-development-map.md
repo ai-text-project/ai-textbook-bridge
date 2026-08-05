@@ -232,8 +232,6 @@ Layer 2
 
 → Mechanism Modules
 
-Strongly Supported
-
 Layer 3
 
 → Observation Modules
@@ -248,7 +246,9 @@ Layer 5
 
 → ?
 
-This hypothesis will continue to be evaluated through subsequent cluster observations.
+Current evidence indicates that the textbook develops through architectural units rather than independent chapters.
+
+Future observation will determine the developmental units of Layers 4 and 5.
 
 ---
 
