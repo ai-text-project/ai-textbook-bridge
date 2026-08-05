@@ -184,7 +184,7 @@ Layer 2
 
 → Mechanism Modules
 
-Working Hypothesis
+Strongly Supported
 
 Layer 3
 
