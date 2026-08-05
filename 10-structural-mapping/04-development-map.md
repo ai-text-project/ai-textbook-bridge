@@ -56,7 +56,51 @@ Mechanism Modules
 
 Layer 3
 
-Observation Modules *(Strongly Supported)*
+Observation Modules
+
+↓
+
+Layer 4
+
+(Practical Development)
+
+Pending Observation
+
+↓
+
+Layer 5
+
+(Future Perspective)
+
+Pending Observation
+
+Layer 0A
+
+Orientation
+
+↓
+
+Layer 0B
+
+Foundational Model
+
+↓
+
+Layer 1
+
+Theory Modules
+
+↓
+
+Layer 2
+
+Mechanism Modules
+
+↓
+
+Layer 3
+
+Observation Modules
 
 ↓
 
