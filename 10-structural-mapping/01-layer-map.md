@@ -49,24 +49,28 @@ This layer functions as the bridge between Orientation and Core Theory.
 
 Purpose
 
-Defines the fundamental theoretical architecture of the AI Textbook.
+Defines the foundational theoretical architecture of the AI Textbook.
 
-Core Components
+Theory Modules
 
 - Three-Layer Projection
 - Scope Theory
 - Phase Theory
 - Role Theory
 
-Current Observation
+Shared Internal Structure
 
-Scope Theory and Phase Theory both define internal operational architectures.
+Each Theory Module follows a common organizational framework:
 
-Layer 1 therefore appears to be composed of multiple theory modules following comparable structural principles.
+- Definition
+- Internal Organization
+- Operational Principle
+- Interaction
+- Functional Summary
 
 Status
 
-Partially Observed
+Completed
 
 ---
 
