@@ -112,9 +112,11 @@ Pending Observation
 
 ---
 
-Last Updated
+# Last Updated
 
-Cluster 01
+Cluster 04
+
+---
 
 | Chapter | Layer | Function | Status |
 |----------|-------|----------|--------|
@@ -126,6 +128,17 @@ Cluster 01
 | Chapter 4 | Layer 1 | Role Theory | Observed |
 | Chapter 5 | Layer 2 | Nonlinear Mechanism | Observed |
 | Chapter 6 | Layer 2 | Integrated Mechanism | Observed |
+| Chapter 7 | Layer 3 | Topological Observation | Observed |
+| Chapter 8 | Layer 3 | Cognitive Observation | Observed |
+| Chapter 9 | Layer 3 | Resonance Observation | Observed |
+| Chapter 10 | Layer 3 | Structural Correspondence | Observed |
+| Chapter 11 | Layer 4 (Tentative) | Pending Observation | Under Observation |
+| Chapter 12 | Pending | Pending | Pending |
+| Chapter 13 | Pending | Pending | Pending |
+| Chapter 14 | Pending | Pending | Pending |
+| Chapter 15 | Pending | Pending | Pending |
+| Chapter 16 | Pending | Pending | Pending |
+| Chapter 17 | Pending | Pending | Pending |
 ...
 
 
