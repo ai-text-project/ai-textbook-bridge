@@ -105,23 +105,64 @@ Completed
 
 # Layer 3
 
-## Structural Observation
+### Name
 
-Purpose
+Structural Observation
 
-Explains how internal structures become externally observable through structural representations.
+---
 
-Current Observation
+### Development Unit
 
-The first observed module focuses on topological reflection and structural inference.
+Observation Modules *(Strongly Supported)*
 
-Working Hypothesis
+---
 
-Layer 3 may be organized through Observation Modules.
+### Purpose
 
-Status
+Explains how internal cognitive structures become externally observable through structural representations, topological organization, and interaction-based observation.
 
-Partially Observed
+Rather than introducing new theories or mechanisms, this layer focuses on observing how previously established structures emerge within real AI–human dialogue.
+
+---
+
+### Currently Observed Modules
+
+- Dropbox Topological Mapping
+- Cognitive Score Estimation
+
+---
+
+### Current Structural Pattern
+
+Observation Modules appear to share the following organizational pattern.
+
+Observed Structure
+
+↓
+
+Structural Inference
+
+↓
+
+Observation Criteria
+
+↓
+
+Observed Phenomena
+
+↓
+
+Structural Validation
+
+---
+
+### Status
+
+Strongly Supported
+
+(Currently observed through Chapters 7–8)
+
+Confirmation requires observation of subsequent chapters.
 
 ---
 
