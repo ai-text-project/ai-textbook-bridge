@@ -47,25 +47,38 @@ This layer functions as the bridge between Orientation and Core Theory.
 
 ## Core Theory
 
+# Layer 1
+
+## Core Theory
+
 Purpose
 
-Defines the fundamental structural architecture of the AI Textbook.
+Defines the fundamental theoretical architecture of the AI Textbook.
 
 Core Components
 
 - Three-Layer Projection
+- Scope Theory
+- Phase Theory
+- Role Theory
 - Human Cognitive Correspondence
-- LLM Internal Correspondence
+- LLM Correspondence
 - Nonlinear Response
 - Bridge Layer
 
-Function
+Current Observation
 
-This layer establishes the theoretical bridge between human cognition and AI internal structure.
+Scope Theory introduces an internal architecture consisting of:
 
-Current Status
+- Definition
+- Hierarchical Levels
+- Internal Composition
+- Reading Mechanism
+- Functional Activation
 
-Observed
+Status
+
+Partially Observed
 
 ---
 
