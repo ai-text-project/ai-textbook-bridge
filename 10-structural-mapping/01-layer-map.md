@@ -113,30 +113,33 @@ Structural Observation
 
 ### Development Unit
 
-Observation Modules *(Strongly Supported)*
+Observation Modules
 
 ---
 
 ### Purpose
 
-Explains how internal cognitive structures become externally observable through structural representations, topological organization, and interaction-based observation.
+Observes how theoretical structures and operational mechanisms become externally observable through AI–human interaction.
 
-Rather than introducing new theories or mechanisms, this layer focuses on observing how previously established structures emerge within real AI–human dialogue.
+Rather than introducing new concepts, this layer explains how established structures emerge as observable phenomena within real dialogue environments.
 
 ---
 
-### Currently Observed Modules
+### Observed Modules
 
 - Dropbox Topological Mapping
 - Cognitive Score Estimation
+- Resonance Condition Observation
 
 ---
 
-### Current Structural Pattern
+### Common Structural Pattern
 
-Observation Modules appear to share the following organizational pattern.
+Observation Target
 
-Observed Structure
+↓
+
+Observation Conditions
 
 ↓
 
@@ -144,25 +147,25 @@ Structural Inference
 
 ↓
 
-Observation Criteria
-
-↓
-
 Observed Phenomena
 
 ↓
 
-Structural Validation
+Interpretation / Validation
+
+---
+
+### Developmental Role
+
+Provides the observation methodology through which resonance-related phenomena become structurally observable.
 
 ---
 
 ### Status
 
-Strongly Supported
+Confirmed
 
-(Currently observed through Chapters 7–8)
-
-Confirmation requires observation of subsequent chapters.
+(Currently observed through Chapters 7–9)
 
 ---
 
