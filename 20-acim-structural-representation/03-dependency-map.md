@@ -223,15 +223,32 @@ These will be introduced progressively in later structural assets.
 
 # Boundary
 
-The Dependency Map does not describe:
+The responsibility of the Dependency Map ends after the primary architectural dependencies have been externalized.
 
-- concept definitions;
+The following responsibilities belong to subsequent structural assets.
+
+Architecture Matrix
+
+- organizational responsibility assignment
+
+Concept Network
+
+- conceptual connectivity
+
+Structural Topology
+
+- complete structural network
+
+Canonical Structural Representation
+
+- reusable architectural representation
+
+Accordingly, the Dependency Map intentionally excludes:
+
 - communication pathways;
-- operational sequences;
+- operational topology;
 - structural loops;
-- comparative observations.
-
-Its sole responsibility is the externalization of architectural dependency relationships.
+- comparative observation.
 
 ---
 
