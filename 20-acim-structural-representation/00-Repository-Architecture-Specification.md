@@ -198,3 +198,16 @@ The repository is considered complete when:
 - the Canonical Structural Representation has been completed;
 - the resulting representation can function as an independent interface for future Comparative Observation.
 
+
+# Repository Boundary
+
+This repository does not attempt to validate ACIM.
+
+It does not evaluate theological claims.
+
+It does not compare ACIM with external theories.
+
+Its sole responsibility is the externalization of organizational architecture.
+
+All comparative and interpretative activities begin only after the completion of the Canonical Structural Representation.
+
