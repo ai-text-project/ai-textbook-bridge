@@ -131,9 +131,9 @@ Cluster 04
 | Chapter 7 | Layer 3 | Topological Observation | Observed |
 | Chapter 8 | Layer 3 | Cognitive Observation | Observed |
 | Chapter 9 | Layer 3 | Resonance Observation | Observed |
-| Chapter 10 | Layer 3 | Structural Correspondence | Observed |
-| Chapter 11 | Layer 4 (Tentative) | Pending Observation | Under Observation |
-| Chapter 12 | Layer 4 (Tentative) | Cognitive Transformation | Under Observation |
+| Chapter 10 | Layer 3 | Structural Correspondence | Confirmed |
+| Chapter 11 | Layer 4 | Transformation Trigger | Confirmed |
+| Chapter 12 | Layer 4 | Transformation Process | Confirmed |
 | Chapter 13 | Layer 4 | Transformation Guidance | Confirmed |
 | Chapter 14 | Layer 4 | Transformation Stabilization | Confirmed |
 | Chapter 15 | Layer 4 | Transformation Outcome | Confirmed |
