@@ -142,3 +142,92 @@ Cluster 04
 ...
 
 
+---
+
+# Current Cluster Organization
+
+Cluster 01
+
+Preface
+
+↓
+
+Introduction
+
+↓
+
+Chapter 1
+
+↓
+
+Chapter 2
+
+↓
+
+Chapter 3
+
+↓
+
+Chapter 4
+
+---
+
+Cluster 02
+
+Chapter 5
+
+↓
+
+Chapter 6
+
+---
+
+Cluster 03
+
+Chapter 7
+
+↓
+
+Chapter 8
+
+↓
+
+Chapter 9
+
+↓
+
+Chapter 10
+
+---
+
+Cluster 04
+
+Chapter 11
+
+↓
+
+Chapter 12
+
+↓
+
+Chapter 13
+
+↓
+
+Chapter 14
+
+↓
+
+Chapter 15
+
+Status
+
+Confirmed
+
+---
+
+Last Updated
+
+Cluster 04
+(Chapter 11–15)
+
