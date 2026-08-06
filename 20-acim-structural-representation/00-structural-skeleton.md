@@ -166,3 +166,12 @@ The Structural Skeleton is considered complete when the highest organizational a
 
 The resulting Skeleton should function as the stable architectural foundation of the entire Structural Representation Repository.
 
+# Design Freeze
+
+The Structural Skeleton represents the highest organizational architecture of ACIM.
+
+Once approved, this Skeleton should remain stable throughout the development of the repository.
+
+Subsequent structural assets are expected to refine the architecture rather than redefine it.
+
+Accordingly, modifications to the Structural Skeleton should occur only when fundamental organizational inconsistencies are identified.
