@@ -265,3 +265,19 @@ The resulting Module Map should function as the reusable structural foundation f
 Once approved, Functional Modules should remain organizationally stable.
 
 Future observations are expected to refine module contents rather than redefine module responsibilities.
+
+
+
+
+# Module Classification Policy
+
+Structural Modules are classified according to organizational responsibility rather than conceptual similarity.
+
+Accordingly,
+
+multiple concepts may belong to a single Functional Module,
+
+while a single concept may participate in multiple Functional Modules.
+
+The Module Map therefore represents organizational function rather than conceptual taxonomy.
+
