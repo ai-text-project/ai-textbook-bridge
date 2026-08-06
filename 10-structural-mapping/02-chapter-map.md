@@ -134,9 +134,9 @@ Cluster 04
 | Chapter 10 | Layer 3 | Structural Correspondence | Observed |
 | Chapter 11 | Layer 4 (Tentative) | Pending Observation | Under Observation |
 | Chapter 12 | Layer 4 (Tentative) | Cognitive Transformation | Under Observation |
-| Chapter 13 | Pending | Pending | Pending |
-| Chapter 14 | Pending | Pending | Pending |
-| Chapter 15 | Pending | Pending | Pending |
+| Chapter 13 | Layer 4 | Transformation Guidance | Confirmed |
+| Chapter 14 | Layer 4 | Transformation Stabilization | Confirmed |
+| Chapter 15 | Layer 4 | Transformation Outcome | Confirmed |
 | Chapter 16 | Pending | Pending | Pending |
 | Chapter 17 | Pending | Pending | Pending |
 ...
