@@ -330,3 +330,16 @@ Accordingly,
 navigation follows the progressive emergence of Structural Representation.
 
 The Roadmap therefore serves as the operational guide to the entire repository.
+
+
+# Methodological Perspective
+
+The Repository Roadmap illustrates more than the organization of one repository.
+
+It demonstrates a reusable workflow for constructing Structural Representation Repositories.
+
+Accordingly,
+
+the roadmap itself represents an implementation of the Structural Representation Methodology.
+
+Future repositories may preserve this roadmap while replacing only the research resource under observation.
