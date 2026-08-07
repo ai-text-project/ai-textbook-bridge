@@ -266,3 +266,18 @@ Once approved, primary Concept Nodes should remain stable.
 Future observations may introduce additional conceptual connections.
 
 However, modifications to the primary Node architecture should occur only when a fundamental structural inconsistency has been identified.
+
+
+# Network Coordinate Policy
+
+Every Concept Node within the repository possesses an architectural coordinate.
+
+Accordingly,
+
+Concept Nodes are not positioned according to semantic similarity.
+
+They are positioned according to architectural responsibility.
+
+The Architecture Matrix therefore functions as the coordinate system of the entire Concept Network.
+
+Future Structural Topology should preserve these architectural coordinates while expanding structural connectivity.
