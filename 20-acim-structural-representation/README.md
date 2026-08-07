@@ -180,3 +180,20 @@ Future stages include:
 This repository documents a Structural Representation of ACIM for research purposes.
 
 The Structural Representation is an original organizational externalization and should not be interpreted as a replacement for the original ACIM resource.
+
+
+# Repository Philosophy
+
+This repository was not designed by imposing a predefined architecture upon ACIM.
+
+Instead, the repository architecture gradually emerged through repeated structural observation.
+
+Accordingly, the repository preserves both:
+
+- the completed Structural Representation of ACIM; and
+- the methodological process through which that representation was externalized.
+
+The repository therefore serves simultaneously as:
+
+- a structural resource; and
+- a methodological case study.
