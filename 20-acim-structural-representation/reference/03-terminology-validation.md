@@ -604,6 +604,20 @@ The resulting Structural Representation Repository may therefore be regarded as 
 
 ---
 
+### Overall Conclusion
+
+The validation supports the methodological principle that Structural Representation can be constructed independently and subsequently validated through reference resources.
+
+Accordingly,
+
+Represent before Validate
+
+is considered the governing validation principle of this repository.
+
+
+
+---
+
 # Validation Principle
 
 Terminology is evaluated together with its structural responsibility.
