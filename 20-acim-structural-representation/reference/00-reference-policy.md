@@ -181,3 +181,18 @@ Validation follows Representation.
 Representation never follows Validation.
 
 This principle preserves the methodological independence of the Structural Representation Repository.
+
+
+# Reference Philosophy
+
+Reference materials are treated as independent observational resources.
+
+Agreement with the repository increases confidence in the Structural Representation.
+
+Differences are preserved as research observations rather than treated as errors.
+
+Accordingly,
+
+the objective of the Reference Layer is not correction.
+
+Its objective is methodological evaluation.
